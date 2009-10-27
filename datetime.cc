@@ -29,6 +29,7 @@ const char * date_t::formats[] = {
   "%A",
   "%b",
   "%B",
+  "%Y/%m",
   "%Y",
   NULL
 };
